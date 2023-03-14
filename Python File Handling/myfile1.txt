@@ -1,0 +1,2 @@
+Python file handling. myfile1 will be written myfile2 (myfile2 data will be overwritten). So, always make a different folder and perform 
+I/O in Python, or any language file handling there. 
